@@ -1,0 +1,10 @@
+{
+  "appId": "com.zonai.purahpados",
+  "appName": "Purah Pad OS",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#090D12",
+  "server": {
+    "androidScheme": "https"
+  }
+}
